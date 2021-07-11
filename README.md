@@ -1,6 +1,6 @@
-# grayscaler
+# CUDA Grayscaler
 
-Educational-purpose multi-threaded image grayscaler.
+Simple educational-purpose multi-threaded image grayscaler - CUDA version
 
 Currently, only jpeg images are supported using `libjpeg`.
 
