@@ -2,10 +2,10 @@
 #include <stdio.h>
 #include <errno.h>
 #include <stdlib.h>
+#include <time.h>
 #include <cuda.h>
 #include <memory.h>
 #include <jpeglib.h>
-#include <pthread.h>
 #include "config.h"
 
 
